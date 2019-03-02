@@ -1,0 +1,27 @@
+Script started on 2019年03月 2日 下午 09:43:05
+]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$ whoamii[K; p[Kpwd
+user
+/cygdrive/c/Users/user/AppData/Roaming/SPB_Data
+]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$ git cond[Kfig -l
+[?1h=[K[?1l>]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$  git clone https://github.com/<your github account>/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone https://github.com/<your github account>/lab1.git
+bash: your: No such file or directory
+]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$ git clone https://github.com/<your github account>/lab1.git
+bash: your: No such file or directory
+]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$ git co[Klone [K https://github.com/XionyuanXu/llab[K[K[Kab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32muser@LAPTOP-SD286QC1 [33m~[0m
+$ exit
+
+Script done on 2019年03月 2日 下午 09:46:14
